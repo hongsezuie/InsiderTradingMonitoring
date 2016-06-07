@@ -1,0 +1,6 @@
+*.Rhistory
+*.exe
+*.mdb
+Splendid/bin/Debug/*
+Splendid/bin/Release/*
+Splendid/obj/*

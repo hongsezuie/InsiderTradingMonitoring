@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Splendid", "Splendid\Splendid.csproj", "{06EFA1B9-BE7C-4C82-AA90-00A5B1718777}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06EFA1B9-BE7C-4C82-AA90-00A5B1718777}.Debug|x86.ActiveCfg = Debug|x86
+		{06EFA1B9-BE7C-4C82-AA90-00A5B1718777}.Debug|x86.Build.0 = Debug|x86
+		{06EFA1B9-BE7C-4C82-AA90-00A5B1718777}.Release|x86.ActiveCfg = Release|x86
+		{06EFA1B9-BE7C-4C82-AA90-00A5B1718777}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		BaseDirectory = Splendid
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

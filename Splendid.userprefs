@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Splendid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Downloader.cs">
+    <Files>
+      <File FileName="Downloader.cs" Line="95" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/hongsezuie/Projects/C#/Splendid/Splendid/Downloader.cs" line="36" column="32" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
